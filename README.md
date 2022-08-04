@@ -1,3 +1,6 @@
+# Preview
+![image](https://github.com/Neil-Hong/Weather-Forecast/blob/main/src/images/preview.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
